@@ -1,0 +1,13 @@
+# Do not edit manually
+
+*.jpeg binary
+
+src/*.ts linguist-detectable
+
+*.jpg binary
+
+public/* linguist-vendored
+* text=auto eol=lf
+yarn.lock linguist-generated
+*.min.js linguist-generated
+*.md linguist-documentation
